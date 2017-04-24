@@ -1,4 +1,4 @@
-// Hello World by Vincent Claes - Hogeschool PXL //
+// Hello World by Vincent Claes - Hogeschool PXL
 
 
 int pushButton = PUSH2;
